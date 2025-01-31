@@ -17,3 +17,8 @@ This repository contains projects focused on applying machine learning technique
    - **Description / Описание**: Segmenting customers using clustering algorithms (KMeans, DBSCAN, Hierarchical Clustering) and dimensionality reduction techniques (PCA, t-SNE, UMAP).  
      Сегментация клиентов немецкого банка с использованием методов кластеризации (KMeans, DBSCAN, иерархическая кластеризация) и уменьшения размерности (PCA, t-SNE, UMAP).  
    - **Folder / Папка**: `clients_segmentation/`  
+
+3. **Anomaly Detection in Component Representations**  
+   - **Description / Описание**: Detecting anomalies in component-based data representations using IsolationForest, One-Class SVM, and frequent deviation methods.  
+     Поиск аномалий в компонентных представлениях данных с использованием IsolationForest, One-Class SVM и метода частых отклонений.  
+   - **Folder / Папка**: `outliers_detection/`
