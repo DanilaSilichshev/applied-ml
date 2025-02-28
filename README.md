@@ -22,3 +22,8 @@ This repository contains projects focused on applying machine learning technique
    - **Description / Описание**: Detecting anomalies in component-based data representations using IsolationForest, One-Class SVM, and frequent deviation methods.  
      Поиск аномалий в компонентных представлениях данных с использованием IsolationForest, One-Class SVM и метода частых отклонений.  
    - **Folder / Папка**: `outliers_detection/`
+
+4. **Infection Spread Simulation in Airports**  
+   - **Description / Описание**: Simulating the spread of infections through airport networks using real flight data and graph-based methods.  
+     Моделирование распространения инфекции через сети аэропортов с использованием реальных данных о перелётах и методов графов.  
+   - **Folder / Папка**: `infection_spreading_simulation/`
