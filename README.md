@@ -27,3 +27,8 @@ This repository contains projects focused on applying machine learning technique
    - **Description / Описание**: Simulating the spread of infections through airport networks using real flight data and graph-based methods.  
      Моделирование распространения инфекции через сети аэропортов с использованием реальных данных о перелётах и методов графов.  
    - **Folder / Папка**: `infection_spreading_simulation/`
+
+5. **Function Approximation with Neural Networks**  
+   - **Description / Описание**: Training a neural network to approximate a mathematical function within a given range using PyTorch.  
+     Обучение нейросети для аппроксимации математической функции в заданном диапазоне с использованием PyTorch.  
+   - **Folder / Папка**: `function_approximation_nn/`
