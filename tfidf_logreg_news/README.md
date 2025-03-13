@@ -1,5 +1,5 @@
-# **Automated News Classification by Tags**  
-# **Автоматическая классификация новостей по тегам**  
+# **News Classification Based on Their Textual Content**  
+# **Классификация новостей по тегам на основе их текстового содержимого**  
 
 This project focuses on **news classification** using web parsing, text processing, and machine learning techniques.  
 Этот проект посвящён **классификации новостей**, включая парсинг, обработку текста и машинное обучение.  
