@@ -32,3 +32,8 @@ This repository contains projects focused on applying machine learning technique
    - **Description / Описание**: Training a neural network to approximate a mathematical function within a given range using PyTorch.  
      Обучение нейросети для аппроксимации математической функции в заданном диапазоне с использованием PyTorch.  
    - **Folder / Папка**: `function_approximation_nn/`
+
+6. **TF-IDF Logistic Regression News Classification**  
+   - **Description / Описание**: Classifying news articles by tags using TF-IDF vectorization and logistic regression.  
+     Классификация новостей по тегам с использованием TF-IDF и логистической регрессии.  
+   - **Folder / Папка**: `tfidf_logreg_news/` 
