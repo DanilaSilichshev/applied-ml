@@ -36,4 +36,9 @@ This repository contains projects focused on applying machine learning technique
 6. **TF-IDF Logistic Regression News Classification**  
    - **Description / Описание**: Classifying news articles by tags using TF-IDF vectorization and logistic regression.  
      Классификация новостей по тегам с использованием TF-IDF и логистической регрессии.  
-   - **Folder / Папка**: `tfidf_logreg_news/` 
+   - **Folder / Папка**: `tfidf_logreg_news/`
+
+7. **Highway Traffic Forecasting**  
+   - **Description / Описание**: Forecasting highway traffic volume using time series analysis, identifying seasonal patterns, and optimizing predictions.  
+     Прогнозирование объёма трафика на автомагистрали с использованием анализа временных рядов, выявления сезонности и оптимизации предсказаний.  
+   - **Folder / Папка**: `traffic_forecast/`
