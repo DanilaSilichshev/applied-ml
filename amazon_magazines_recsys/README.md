@@ -52,7 +52,7 @@ This project focuses on building and evaluating a **recommender system** using t
 ---
 
 ## **Summary / Резюме**
-This project explores recommendation approaches on real-world sparse user-item data from Amazon. 
+This project explores recommendation approaches on real-world sparse user-item data from Amazon.  
 В проекте исследованы подходы к рекомендациям на разреженных пользовательских данных из Amazon.  
 The best results were achieved by **LightFM (warp)**, offering a strong balance of accuracy and coverage.  
 Наилучшие результаты показала модель **LightFM (warp)**, обеспечив хорошее сочетание точности и охвата.
