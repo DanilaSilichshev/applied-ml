@@ -33,7 +33,7 @@ This project focuses on building and evaluating a **recommender system** using t
 
 ## **Models / Модели**
 - **Baseline**: Top-N most popular magazines with high ratings  
-  **Baseline**: топ-N самых популярных журналов с высоким рейтингом  
+  **Baseline**: Топ-N самых популярных журналов с высоким рейтингом  
 - **LightFM (warp)**: Latent factor model with WARP loss  
   **LightFM (warp)**: модель скрытых факторов с функцией потерь WARP  
 - **LightFM (bpr)**: Latent factor model with BPR loss  
@@ -52,9 +52,9 @@ This project focuses on building and evaluating a **recommender system** using t
 ---
 
 ## **Summary / Резюме**
-This project explores recommendation approaches on real-world sparse user-item data from Amazon.  
+This project explores recommendation approaches on real-world sparse user-item data from Amazon. 
+В проекте исследованы подходы к рекомендациям на разреженных пользовательских данных из Amazon.  
 The best results were achieved by **LightFM (warp)**, offering a strong balance of accuracy and coverage.  
-Проект исследует подходы к рекомендациям на разреженных пользовательских данных из Amazon.  
 Наилучшие результаты показала модель **LightFM (warp)**, обеспечив хорошее сочетание точности и охвата.
 
 **Further improvement:** hyperparameter tuning  
