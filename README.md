@@ -42,3 +42,8 @@ This repository contains projects focused on applying machine learning technique
    - **Description / Описание**: Forecasting highway traffic volume using time series analysis, identifying seasonal patterns, and optimizing predictions.  
      Прогнозирование объёма трафика на автомагистрали с использованием анализа временных рядов, выявления сезонности и оптимизации предсказаний.  
    - **Folder / Папка**: `traffic_forecast/`
+
+8. **Amazon Magazine Recommendation System**  
+   - **Description / Описание**: Building a recommender system based on implicit feedback using LightFM model (WARP and BPR), with evaluation of ranking quality, coverage, and novelty.  
+     Построение рекомендательной системы по подпискам на журналы Amazon с использованием модели LightFM (WARP и BPR), а также оценкой качества ранжирования, покрытия и новизны.  
+   - **Folder / Папка**: `amazon_magazines_recsys/`
