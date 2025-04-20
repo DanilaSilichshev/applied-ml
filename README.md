@@ -47,3 +47,8 @@ This repository contains projects focused on applying machine learning technique
    - **Description / Описание**: Building a recommender system based on implicit feedback using LightFM model (WARP and BPR), with evaluation of ranking quality, coverage, and novelty.  
      Построение рекомендательной системы по подпискам на журналы Amazon с использованием модели LightFM (WARP и BPR), а также оценкой качества ранжирования, покрытия и новизны.  
    - **Folder / Папка**: `amazon_magazines_recsys/`
+
+9. **Grammatical Acceptability Classification with Transformers**  
+   - **Description / Описание**: Grammatical Acceptability Classification using Transformer Models.  
+     Оценка грамматической корректности предложений с использованием трансформерных моделей.  
+   - **Folder / Папка**: `transformer_grammar_check/`
